@@ -1,0 +1,16 @@
+{
+  "name": "06-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha -w",
+    "dev": "node ."
+  },
+  "devDependencies": {
+    "mocha": "^9.2.2"
+  },
+  "dependencies": {
+    "commander": "^9.0.0"
+  }
+}
